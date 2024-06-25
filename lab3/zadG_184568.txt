@@ -1,0 +1,1 @@
+W obu metodach nie zbiega się do 10^-15 po 1000 iteracji.

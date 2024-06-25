@@ -1,0 +1,1 @@
+W interpolacji wielomianowej występują błędy interpolacji, a interpolacja trygonometryczna coraz lepiej sobie radzi z coraz większą liczbą puntów interpolacyjnych.

@@ -1,0 +1,1 @@
+Lepiej będzie skorzystać z aproksymacji, ponieważ dane są obarczone błędem, a interpolacja wymaga, by dane były dokładne.

@@ -1,0 +1,1 @@
+Im więcej punktów interpolacji tym bardziej dokładny wynik, interpolacja trygonometryczna wydaje się być dokładnijesza od wielominaowej na granicach.

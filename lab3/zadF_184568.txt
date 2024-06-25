@@ -1,0 +1,1 @@
+Metoda Gaussa-Seidla okazała się lepsza od metody Jacobi, jest szybsza i na pewno robi dwa razy mniej iteracji. Oczywiście obie metody są o wiele lepsze od zwykłego Gaussa.
